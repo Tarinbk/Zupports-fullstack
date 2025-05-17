@@ -37,3 +37,6 @@ GET /api/restaurants?keyword=บางซื่อ
  - แคชผลลัพธ์ 10 นาที (ลดการเรียกซ้ำ)
  - ส่งกลับ JSON รายชื่อร้าน
 
+ผลลัพธ์ที่ได้หลังจากรันโปรเจกต์
+
+![Screenshot 2025-05-18 030500](https://github.com/user-attachments/assets/f018abe1-2394-4062-a0ae-e1b225423702)
